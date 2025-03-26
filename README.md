@@ -1,7 +1,7 @@
 <h1>🎵 Musix Owogs - The Ultimate Telegram Music Bot</h1>
 
 <p>🚀 <strong>Musix Owogs</strong> is an open-source, feature-rich <strong>Telegram Music Bot</strong> that brings high-quality 
-<a href="https://telegram.org">audio & video streaming</a> to your groups and channels. Built with <strong>Python</strong>, 
+audio & video streaming to your groups and channels. Built with <strong>Python</strong>, 
 it supports multiple platforms like <strong>YouTube, Spotify, and SoundCloud</strong> for seamless music playback.</p>
 
 <h2>✨ Features</h2>
@@ -50,7 +50,7 @@ it supports multiple platforms like <strong>YouTube, Spotify, and SoundCloud</st
 <ul>
   <li>📢 <strong>Telegram Community</strong>: <a href="https://t.me/theowogs">Join Owogs</a></li>
   <li>🌍 <strong>Website</strong>: <a href="https://theowogs.vercel.app">theowogs.vercel.app</a></li>
-  <li>📂 <strong>GitHub Organization</strong>: <a href="https://github.com/TheOwogs">The Owogs</a></li>
+  <li>📂 <strong>GitHub Organization</strong>: <a href="https://github.com/The-Owogs">The Owogs</a></li>
 </ul>
 
 <h2>📊 GitHub Repository Stats</h2>

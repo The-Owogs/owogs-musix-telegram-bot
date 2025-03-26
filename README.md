@@ -55,10 +55,10 @@ it supports multiple platforms like <strong>YouTube, Spotify, and SoundCloud</st
 
 <h2>📊 GitHub Repository Stats</h2>
 <p>
-  <img src="https://img.shields.io/github/stars/TheOwogs/musix-owogs-telegram-bot?style=social" alt="GitHub Repo Stars">
-  <img src="https://img.shields.io/github/forks/TheOwogs/musix-owogs-telegram-bot" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/contributors/TheOwogs/musix-owogs-telegram-bot" alt="GitHub Contributors">
-  <img src="https://img.shields.io/github/license/TheOwogs/musix-owogs-telegram-bot" alt="GitHub License">
+  <img src="https://img.shields.io/github/stars/The-Owogs/owogs-musix-telegram-bot?style=social" alt="GitHub Repo Stars">
+  <img src="https://img.shields.io/github/forks/The-Owogs/owogs-musix-telegram-bot" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/contributors/The-Owogs/owogs-musix-telegram-bot" alt="GitHub Contributors">
+  <img src="https://img.shields.io/github/license/The-Owogs/owogs-musix-telegram-bot" alt="GitHub License">
 </p>
 
 <p>💖 <strong>Star the repo if you like it!</strong> ⭐</p>

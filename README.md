@@ -48,7 +48,7 @@ it supports multiple platforms like <strong>YouTube, Spotify, and SoundCloud</st
 
 <h2>🌐 Connect With Us</h2>
 <ul>
-  <li>📢 <strong>Telegram Community</strong>: <a href="https://t.me/Owogs">Join Owogs</a></li>
+  <li>📢 <strong>Telegram Community</strong>: <a href="https://t.me/theowogs">Join Owogs</a></li>
   <li>🌍 <strong>Website</strong>: <a href="https://theowogs.vercel.app">theowogs.vercel.app</a></li>
   <li>📂 <strong>GitHub Organization</strong>: <a href="https://github.com/TheOwogs">The Owogs</a></li>
 </ul>
